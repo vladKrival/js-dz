@@ -11,4 +11,3 @@ while(number <= 20) {
   number ++;
 }
 console.log("Сумма чисел от 1 до 20 равна" + sum);
-
