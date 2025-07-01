@@ -10,4 +10,4 @@ while(number <= 20) {
   sum += number;
   number ++;
 }
-console.log("Сумма чисел от 1 до 20 равна" + sum);
+console.log("Сумма чисел от 1 до 20 равна " + sum);

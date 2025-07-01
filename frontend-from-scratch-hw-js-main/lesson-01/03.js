@@ -5,4 +5,14 @@
 */
 
 // your code
-let sum
+let sum = 0;
+let number = 1;
+
+
+while(number <= 20) {
+  if(number % 2 !== 0) {
+    sum += number;
+  }
+  number++;
+}
+console.log('summa нечетных до 20 = ' + sum);
